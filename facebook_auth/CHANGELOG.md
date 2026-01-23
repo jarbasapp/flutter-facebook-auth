@@ -1,3 +1,12 @@
+## 7.1.5
+- Use fixed version of `FBSDKLoginKit` to avoid issues on iOS.
+
+## 7.1.4
+- Updated Facebook Android SDK to 18.1.3
+
+## 7.1.3
+- Updated Facebook iOS SDK to 18.0.2
+
 ### 7.1.2
 - Updated Facebook iOS SDK to 18.0.0
 - Updated Facebook Android SDK to 18.0.3
